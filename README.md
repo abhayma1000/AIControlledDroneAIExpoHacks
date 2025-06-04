@@ -1,3 +1,8 @@
+# [SCSP AI Hackathon](https://expo.scsp.ai/hackathon/)
+
+This is our submission: [Github](https://github.com/mithranm/scsphacksaiexpo)
+
+
 # AI drone control
 
 This is not our core submission, but something we tried. We believe this is promising, but didn't have enough time to fully flush it out
